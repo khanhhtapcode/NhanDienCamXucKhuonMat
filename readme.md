@@ -62,7 +62,6 @@ pip install streamlit opencv-python pillow numpy
 # Hoặc:
 pip install -r requirements.txt
 ```
-### Bước 3: Cài dependencies
 ##  Sử dụng ứng dụng
 Sau khi chạy lệnh trên, trình duyệt sẽ tự động mở và truy cập:
 ```bash
