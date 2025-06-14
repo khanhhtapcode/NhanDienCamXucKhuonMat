@@ -1,0 +1,20 @@
+{
+  "emotion_labels_en": {
+    "0": "Angry",
+    "1": "Disgust",
+    "2": "Fear",
+    "3": "Happy",
+    "4": "Sad",
+    "5": "Surprise",
+    "6": "Neutral"
+  },
+  "emotion_labels_vn": {
+    "0": "Tức giận",
+    "1": "Ghê tởm",
+    "2": "Sợ hãi",
+    "3": "Vui vẻ",
+    "4": "Buồn bã",
+    "5": "Ngạc nhiên",
+    "6": "Bình thường"
+  }
+}

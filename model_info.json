@@ -1,0 +1,16 @@
+{
+  "model_name": "Emotion Recognition CNN",
+  "input_shape": [
+    48,
+    48,
+    1
+  ],
+  "num_classes": 7,
+  "test_accuracy": 0.6552748680114746,
+  "total_params": 850279,
+  "training_samples": 25120,
+  "validation_samples": 5383,
+  "test_samples": 5384,
+  "epochs_trained": 50,
+  "best_val_accuracy": 0.6557681560516357
+}
