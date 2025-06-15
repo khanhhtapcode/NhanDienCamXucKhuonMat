@@ -70,8 +70,8 @@ https://drive.google.com/file/d/1KF92yXGHlsFmkvAzWo28tPbirYvI6461/view?usp=shari
 Sau khi chạy lệnh trên, trình duyệt sẽ tự động mở và truy cập:
 ```bash
 streamlit run app.py
-http://localhost:8501
 ```
+http://localhost:8501
 ### Hướng dẫn sử dụng
 
 **Chọn chế độ**:
@@ -94,6 +94,7 @@ http://localhost:8501
 - Kết quả hiển thị ngay lập tức
 
 ### 📁 Cấu trúc dự án
+```
 emotion-recognition/
 │
 ├── app.py                          # File chính của ứng dụng Streamlit
@@ -103,6 +104,7 @@ emotion-recognition/
 ├── requirements.txt                # Danh sách dependencies
 ├── README.md                       # File hướng dẫn này
 └── emotion_recognition_final.h5    # Model đã train (định dạng H5)
+```
 ### Mô tả files quan trọng:
 
 app.py: Giao diện chính, xử lý upload/camera và hiển thị kết quả
