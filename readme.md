@@ -48,7 +48,7 @@
 
 ```bash
 cd path/to/your/project
-python -m venv emotion_env
+C:\Python311\python.exe -m venv emotion_env
 # Windows
 emotion_env\Scripts\activate
 # macOS/Linux
@@ -65,6 +65,7 @@ pip install -r requirements.txt
 ##  Sử dụng ứng dụng
 Sau khi chạy lệnh trên, trình duyệt sẽ tự động mở và truy cập:
 ```bash
+streamlit run app.py
 http://localhost:8501
 ```
 ### Hướng dẫn sử dụng
