@@ -62,6 +62,10 @@ pip install streamlit opencv-python pillow numpy
 # Hoặc:
 pip install -r requirements.txt
 ```
+### Lưu ý: Vào link này để tải file trainmodel và đưa vào thư mục bạn clone or giải nén:
+```
+https://drive.google.com/file/d/1KF92yXGHlsFmkvAzWo28tPbirYvI6461/view?usp=sharing
+```
 ##  Sử dụng ứng dụng
 Sau khi chạy lệnh trên, trình duyệt sẽ tự động mở và truy cập:
 ```bash
