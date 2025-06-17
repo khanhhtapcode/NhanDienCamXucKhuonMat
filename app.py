@@ -8,8 +8,8 @@ import sys
 
 # Cấu hình trang
 st.set_page_config(
-   page_title="🎭 Nhận diện cảm xúc khuôn mặt",
-   page_icon="🎭",
+   page_title=" Nhận diện cảm xúc khuôn mặt",
+   page_icon="",
    layout="wide"
 )
 
